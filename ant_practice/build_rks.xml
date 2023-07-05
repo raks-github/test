@@ -1,3 +1,4 @@
+\\test github
 <project name="rkstest" default="copy dir">
 <target name='copy dir' >
 <copy todir="../rak_nwdir">
