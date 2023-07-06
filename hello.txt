@@ -1,0 +1,6 @@
+
+include hash
+test  done
+
+
+yes hellozzz
